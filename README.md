@@ -18,7 +18,7 @@ Live: https://mrmcpat.github.io/Weather-Or-Not/
 
 Github: https://github.com/MrMcPat/Weather-Or-Not
 
-Weather or Not is a simply front-end weather application made with vanilla JavaScript which includes a minimalist user interface that displays a 7 day forecast that alerts the user if they may need an umbrella or not. This project was also my first time collaborating with other person and also one of the first projects I have done in web development. My role was to handle the HTML/CSS and to utilize JavaScript with CSS to create immersive animations and styling that can keep the user engaged. My partner would handle the external API data that we get to display the weather details onto the webpage.
+Weather or Not is a simple front-end weather application made with vanilla JavaScript which includes a minimalist user interface that displays a 7 day forecast that alerts the user if they may need an umbrella or not. This project was also my first time collaborating with other person and also one of the first projects I have done in web development. My role was to handle the HTML/CSS and to utilize JavaScript with CSS to create immersive animations and styling that can keep the user engaged. My partner would handle the external API data to display the weather details onto the webpage.
 
 3. Brain Fumble
 
